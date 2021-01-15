@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "471 Stepanenko Laba 5 Individual/1.0.0": {
+        "runtime": {
+          "471 Stepanenko Laba 5 Individual.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "471 Stepanenko Laba 5 Individual/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

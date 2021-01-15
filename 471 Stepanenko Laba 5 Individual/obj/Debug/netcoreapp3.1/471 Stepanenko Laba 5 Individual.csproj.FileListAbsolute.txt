@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\471 Stepanenko Laba 5 Individual\471 Stepanenko Laba 5 Individual\bin\Debug\netcoreapp3.1\471 Stepanenko Laba 5 Individual.exe
+C:\Users\USER\source\repos\471 Stepanenko Laba 5 Individual\471 Stepanenko Laba 5 Individual\bin\Debug\netcoreapp3.1\471 Stepanenko Laba 5 Individual.deps.json
+C:\Users\USER\source\repos\471 Stepanenko Laba 5 Individual\471 Stepanenko Laba 5 Individual\bin\Debug\netcoreapp3.1\471 Stepanenko Laba 5 Individual.runtimeconfig.json
+C:\Users\USER\source\repos\471 Stepanenko Laba 5 Individual\471 Stepanenko Laba 5 Individual\bin\Debug\netcoreapp3.1\471 Stepanenko Laba 5 Individual.runtimeconfig.dev.json
+C:\Users\USER\source\repos\471 Stepanenko Laba 5 Individual\471 Stepanenko Laba 5 Individual\bin\Debug\netcoreapp3.1\471 Stepanenko Laba 5 Individual.dll
+C:\Users\USER\source\repos\471 Stepanenko Laba 5 Individual\471 Stepanenko Laba 5 Individual\bin\Debug\netcoreapp3.1\471 Stepanenko Laba 5 Individual.pdb
+C:\Users\USER\source\repos\471 Stepanenko Laba 5 Individual\471 Stepanenko Laba 5 Individual\obj\Debug\netcoreapp3.1\471 Stepanenko Laba 5 Individual.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\471 Stepanenko Laba 5 Individual\471 Stepanenko Laba 5 Individual\obj\Debug\netcoreapp3.1\_471_Stepanenko_Laba_5_Individual.Form1.resources
+C:\Users\USER\source\repos\471 Stepanenko Laba 5 Individual\471 Stepanenko Laba 5 Individual\obj\Debug\netcoreapp3.1\_471_Stepanenko_Laba_5_Individual.UserControl1.resources
+C:\Users\USER\source\repos\471 Stepanenko Laba 5 Individual\471 Stepanenko Laba 5 Individual\obj\Debug\netcoreapp3.1\471 Stepanenko Laba 5 Individual.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\471 Stepanenko Laba 5 Individual\471 Stepanenko Laba 5 Individual\obj\Debug\netcoreapp3.1\471 Stepanenko Laba 5 Individual.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\471 Stepanenko Laba 5 Individual\471 Stepanenko Laba 5 Individual\obj\Debug\netcoreapp3.1\471 Stepanenko Laba 5 Individual.AssemblyInfo.cs
+C:\Users\USER\source\repos\471 Stepanenko Laba 5 Individual\471 Stepanenko Laba 5 Individual\obj\Debug\netcoreapp3.1\471 Stepanenko Laba 5 Individual.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\471 Stepanenko Laba 5 Individual\471 Stepanenko Laba 5 Individual\obj\Debug\netcoreapp3.1\471 Stepanenko Laba 5 Individual.dll
+C:\Users\USER\source\repos\471 Stepanenko Laba 5 Individual\471 Stepanenko Laba 5 Individual\obj\Debug\netcoreapp3.1\471 Stepanenko Laba 5 Individual.pdb
+C:\Users\USER\source\repos\471 Stepanenko Laba 5 Individual\471 Stepanenko Laba 5 Individual\obj\Debug\netcoreapp3.1\471 Stepanenko Laba 5 Individual.genruntimeconfig.cache
