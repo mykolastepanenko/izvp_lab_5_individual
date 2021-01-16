@@ -57,7 +57,7 @@
             // radioButton2
             // 
             this.radioButton2.AutoSize = true;
-            this.radioButton2.Location = new System.Drawing.Point(274, 65);
+            this.radioButton2.Location = new System.Drawing.Point(519, 65);
             this.radioButton2.Name = "radioButton2";
             this.radioButton2.Size = new System.Drawing.Size(108, 23);
             this.radioButton2.TabIndex = 2;
@@ -71,8 +71,9 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(86, 26);
             this.button1.TabIndex = 3;
-            this.button1.Text = "button1";
+            this.button1.Text = "Відповісти";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.btn_Click);
             // 
             // UserControl1
             // 
@@ -84,7 +85,7 @@
             this.Controls.Add(this.radioButton1);
             this.Controls.Add(this.label1);
             this.Name = "UserControl1";
-            this.Size = new System.Drawing.Size(451, 150);
+            this.Size = new System.Drawing.Size(1054, 150);
             this.ResumeLayout(false);
             this.PerformLayout();
 

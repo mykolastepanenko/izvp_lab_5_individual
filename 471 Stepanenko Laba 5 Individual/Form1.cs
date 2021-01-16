@@ -17,5 +17,17 @@ namespace _471_Stepanenko_Laba_5_Individual
             InitializeComponent();
         }
 
+        public int getMark
+        {
+            set
+            {
+                mark++;
+                this.label2.Text = System.String.Format("Ваша оцінка: {0} із {1}", mark, 30);
+            }
+            get
+            {
+                return mark;
+            }
+        }
     }
 }
